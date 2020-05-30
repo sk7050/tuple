@@ -24,4 +24,4 @@ for i in range(len(Data)):
     elif (Oparator[i]=="/"):
         Output=Output/int(Data[i])   
 
-print("************************"+"\n"+"OUTPUT"+"\n"+temp+" = "+str(Output))
+print("**************************"+"\n"+"OUTPUT"+"\n"+temp+" = "+str(Output))
